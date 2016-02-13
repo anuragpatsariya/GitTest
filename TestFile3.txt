@@ -1,2 +1,5 @@
-import <iostream.h>
-import <conio.h>
+#include<iostream.h>
+#include<conio.h>
+int main(){
+	return 0;
+}
